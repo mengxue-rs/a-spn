@@ -1,5 +1,6 @@
 %
 % A-SPN: Attention-Based Second-Order Pooling Network for Hyperspectral Image Classification DEMO.
+%        URL    : https://ieeexplore.ieee.org/document/9325094   
 %        Version: 1.0
 %        Date   : May 2021
 %
