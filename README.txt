@@ -1,4 +1,4 @@
-%
+% Same to codes of https://github.com/ZhaohuiXue/A-SPN-release Whileas it is a slim version (only with indian pines data convenient for downloading)
 % A-SPN: Attention-Based Second-Order Pooling Network for Hyperspectral Image Classification DEMO.
 %        URL    : https://ieeexplore.ieee.org/document/9325094   
 %        Version: 1.0
